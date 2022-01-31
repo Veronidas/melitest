@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.035ebd57.css",
-    "main.js": "/static/js/main.74ea1d9b.js",
-    "index.html": "/index.html",
-    "main.035ebd57.css.map": "/static/css/main.035ebd57.css.map",
-    "main.74ea1d9b.js.map": "/static/js/main.74ea1d9b.js.map"
+    "main.css": "/melitest/static/css/main.035ebd57.css",
+    "main.js": "/melitest/static/js/main.74ea1d9b.js",
+    "index.html": "/melitest/index.html",
+    "main.035ebd57.css.map": "/melitest/static/css/main.035ebd57.css.map",
+    "main.74ea1d9b.js.map": "/melitest/static/js/main.74ea1d9b.js.map"
   },
   "entrypoints": [
     "static/css/main.035ebd57.css",
