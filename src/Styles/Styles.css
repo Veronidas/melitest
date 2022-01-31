@@ -1,0 +1,65 @@
+body {
+    background-color: #EDEDED;
+    margin: 0;
+}
+
+/* ITEMCARD */
+
+.ItemCard {
+    border: 0.5px solid rgb(238, 232, 232);
+    border-radius: 6px;
+    color: black;
+    display: flex; 
+    margin: 20px;
+    width: 70%;
+    flex-direction: column;
+    text-decoration: none;
+    background-color: #ffffff;
+}
+
+.ItemCard img {
+    object-fit: contain;
+}
+
+.ItemCard h4 {
+    margin: 0;
+}
+
+/* SEARCHBAR */
+
+.topnav {
+
+    overflow: hidden;
+    background-color: #FFF159;
+    width: 100%;
+    height: 70px;
+    margin: 0px auto;
+  }
+  
+  .topnav a {
+    float: left;
+    display: block;
+    text-align: center;
+  }
+   
+  .topnav img{
+    background-color: ##FFF159;
+    color: white;
+    width: 70px;
+    height: 70px;
+  }
+  
+  .topnav input[type=text] {
+    justify-content: center;
+    padding: 6px;
+    border: none;
+    margin-top: 16px;
+    margin-right: 16px;
+    margin-left: 70px;
+    font-size: 25px;
+    width: 900px;
+  }
+  
+    .topnav input[type=text] {
+      border: 1px solid #ccc;
+    }
