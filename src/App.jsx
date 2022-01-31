@@ -1,10 +1,9 @@
 import React from 'react';
-import ItemInfo from './components/ItemInfo';
 import { ItemsList } from './components/ItemsList';
 import './Styles/Styles.css'
 import SearchBar from './components/SearchBar';
 
-import { Link, Route } from 'wouter';
+import { Route } from 'wouter';
 
 
 export function App(){
